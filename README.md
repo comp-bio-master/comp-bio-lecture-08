@@ -18,3 +18,4 @@ The purpose of this repo is to allow you to easily clone the data and script for
 1. Clone this repo to your computer
 2. Open  `repository_lecture-08/CSB/data_wrangling/sandbox/zipCovidSummary_lecture.R` in RStudio
 3. Note that the data for today's lecture is in `repository_lecture-08/CSB/data_wrangling/data`
+4. Follow the instructions in the lecture 8 markdown document on github
