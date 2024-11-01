@@ -5,11 +5,9 @@ The purpose of this repo is to allow you to easily clone the lecture slides and 
 > [!IMPORTANT] 
 > clone this repo to your computer 
 
-> [!NOTE]
-> Lecture slides: 
 
 > [!NOTE]
-> Lecture script: 
+> Lecture script: In this repo, `CSB/data_wrangling/sandbox/zipCovidSummary_lecture.R`
 
 ---
 
