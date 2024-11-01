@@ -1,5 +1,3 @@
-# comp-bio-lecture-8
-
 # Repository to Accompany Week08 Lecture: R Data Wrangling w/ Tidyverse R Package
 
 The purpose of this repo is to allow you to easily clone the lecture slides and script for today's lecture.  
